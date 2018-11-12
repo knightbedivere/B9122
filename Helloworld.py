@@ -3,4 +3,6 @@ Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 26 2018, 23:26:24)
 Type "copyright", "credits" or "license()" for more information.
 >>> print("hello world")
 hello world
+>>> print("I love git hub")
+I love git hub
 >>> 
